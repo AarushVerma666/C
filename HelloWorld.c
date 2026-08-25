@@ -1,10 +1,8 @@
 #include<stdio.h>
-#include<conio.h>
-int main( )
+
+int main()
 {
-    clrscr();
-    printf("My name is aarush verma\n");
-    printf("My branch is cs-ai");
+   int i = 10;
+   printf("This is %d\n",i);
     return 0;
 }
-
